@@ -1,2 +1,2 @@
-# hades
-System for reading and processing Serpent files to AKIKO tables
+# Hades
+System for reading and processing Serpent output files to AKIKO tables
